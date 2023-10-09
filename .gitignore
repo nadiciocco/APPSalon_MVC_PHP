@@ -1,9 +1,4 @@
-/vendor/
-/node_modules/
-/src/
+vendor/
+node_modules/
 .env
-.env.local
-.env.development
-.env.test
-.env.production
-.env.staging
+.DS_Store
